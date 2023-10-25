@@ -81,6 +81,13 @@ Password: password
 Clique no botão "Connect" para acessar o console do H2.
 
 Tenha cuidado ao usar o console do H2 e não o utilize em ambientes de produção, pois ele é destinado principalmente ao desenvolvimento e teste.
+## :clapper: Teste da API
+
+
+
+https://github.com/saturi11/teste-tecnico-x8-H2/assets/61097598/aca60143-3465-4ee4-903f-76b5e6a73635
+
+
 
 ## ✒️ Autor
 * **Gabriel Saturi** - [[Gabriel Saturi](https://github.com/saturi11)]
