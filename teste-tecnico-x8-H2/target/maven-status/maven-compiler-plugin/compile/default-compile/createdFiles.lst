@@ -1,0 +1,4 @@
+com\example\testetecnicox8\TesteTecnicoX8Application.class
+com\example\testetecnicox8\produtos\Produto.class
+com\example\testetecnicox8\produtos\ProdutoRepository.class
+com\example\testetecnicox8\produtos\ProdutoController.class
