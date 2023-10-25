@@ -1,5 +1,5 @@
 # Teste Técnico - CRUD de Produtos (Banco de Dados H2)
-  Este projeto de exemplo demonstra uma aplicação Java Java que realiza operações CRUD (Create, Read, Update, Delete) em produtos usando o framework Jakarta Persistence (JPA) e Spring Boot. Neste projeto, utilizamos o banco de dados H2 para fins de desenvolvimento e teste.
+  Este projeto de exemplo demonstra uma aplicação Java que realiza operações CRUD (Create, Read, Update, Delete) em produtos usando o framework Jakarta Persistence (JPA) e Spring Boot. Neste projeto, utilizamos o banco de dados H2 para fins de desenvolvimento e teste.
 
 ## 🚀Visão Geral
 Este projeto é composto por um componente principal:
